@@ -232,7 +232,3 @@ git rebase <branch name>
 
 - [Official documentation](https://git-scm.com/docs/git)
 - https://rogerdudler.github.io/git-guide/
-
-```
-
-```
