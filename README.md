@@ -5,7 +5,7 @@ A tutorial to discover git
 - [Introduction](Introduction)
 - [Architecture](Architecture)
 - [Installation](Installation)
-  - [Windows & macOS](Windows & MacOS)
+  - [Windows & macOS](windows--macos)
   - [Linux](Linux)
 - [Getting started](Getting started)
 - [Commit](Commit)
